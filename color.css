@@ -1,0 +1,58 @@
+#container{
+  background-color: white
+}
+#visible{
+   background-color: white;
+}
+#gamma{
+  background-color: #000000;
+}
+#xray{
+	background-image: -webkit-linear-gradient(270deg,rgba(68,0,238,1.00) 0%,rgba(109,0,153,1.00) 11.47%,rgba(105,0,153,1.00) 89.95%,rgba(0,0,0,1.00) 100%);
+
+}
+#euv, #euvlin{
+	background-image: linear-gradient(180deg,rgba(77,58,247,1.00) 0%,rgba(68,0,238,1.00) 22.81%);	
+}
+
+#uvc, #uvclin{
+	background-image: linear-gradient(180deg,rgba(62,136,255,1.00) 0%,rgba(85,109,255,1.00) 22.29%,rgba(85,109,255,1.00) 77.44%,rgba(77,58,247,1.00) 99.40%);
+}
+
+#uvb, #uvblin{
+	background-image: linear-gradient(180deg,rgba(42,211,255,1.00) 0%,rgba(62,170,253,1.00) 59.33%,rgba(42,163,255,1.00) 79.44%,rgba(62,136,255,1.00) 100%);
+}
+
+#uva, #uvalin{
+	background-image: linear-gradient(180deg,rgba(42,255,255,1.00) 87.54%,rgba(42,211,255,1.00) 100%);
+}
+
+#infrared{
+  background-color: #EE0000;
+}
+
+#micro{
+	background-image: -webkit-linear-gradient(270deg,rgba(255,224,42,1.00) 0%,rgba(255,153,50,1.00) 17.25%,rgba(255,153,50,1.00) 86.59%,rgba(238,0,0,1.00) 100%);
+	
+}
+#radio{
+  background: rgba(255,224,42,1);
+}
+#red {
+  /*background-color: red;*/
+}
+#orange {
+  background-color: orange;
+}
+#yellow {
+  background-color: yellow;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+#violet {
+  background-color: violet;
+}
